@@ -1,0 +1,50 @@
+Hikari-LLVM
+Copyright (c) 2017-2024 The Hikari Project Contributors
+
+This repository is a mirror of Hikari-LLVM15, an LLVM-based code obfuscator.
+
+================================================================================
+Attribution
+================================================================================
+
+This software includes modifications to the LLVM Compiler Infrastructure.
+
+LLVM Project
+------------
+The LLVM Project is under the Apache License v2.0 with LLVM Exceptions.
+See LICENSE.TXT for the full license text.
+https://llvm.org/
+
+Hikari Obfuscator (Original)
+----------------------------
+Original author: Naville Zhang (https://github.com/Naville)
+Repository: https://github.com/HikariObfuscator/Hikari (archived)
+The original Hikari project introduced LLVM-based obfuscation passes including
+string encryption, control flow flattening, bogus control flow, and more.
+
+Hikari-LLVM15
+-------------
+Maintainer: 61bcdefg / NeHyci
+Repositories (no longer available):
+  - https://github.com/61bcdefg/Hikari-LLVM15
+  - https://github.com/NeHyci/Hikari-LLVM15
+  - https://github.com/61bcdefg/Hikari-LLVM15-Core
+  - https://github.com/61bcdefg/Hikari-LLVM15-Headers
+
+Hikari-LLVM15 extended the original Hikari project with support for newer
+LLVM versions (15.x through 18.x) and additional obfuscation features.
+
+Mirror
+------
+This mirror is maintained to preserve the source code after the original
+repositories became unavailable. No additional modifications have been made
+beyond de-submoduling and documentation updates.
+
+================================================================================
+Third-Party Software
+================================================================================
+
+The LLVM Project contains third-party software which is under different license
+terms. All such code is identified in its respective directory with its own
+LICENSE.txt or LICENSE file, or contains specific license terms at the top of
+every file. See LICENSE.TXT for details.
