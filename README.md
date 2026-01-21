@@ -131,7 +131,7 @@ ninja
 
 ## License
 
-See [LICENSE.TXT](LICENSE.TXT) for LLVM licensing terms.
+See [LICENSE.TXT](LICENSE.TXT) for LLVM licensing terms and [NOTICE](NOTICE) for attribution.
 
 ---
 
